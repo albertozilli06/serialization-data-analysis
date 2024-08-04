@@ -56,13 +56,6 @@ The project includes the following visualizations:
 - **Production by Location**: Bar plot showing the number of products produced at different locations.
 - **Returned Products Over Time**: Bar plot showing the number of returned products over time.
 
-## Example Output
-
-![Product Status Distribution](images/product_status_distribution.png)
-![Production Over Time](images/production_over_time.png)
-![Production by Location](images/production_by_location.png)
-![Returned Products Over Time](images/returned_products_over_time.png)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
